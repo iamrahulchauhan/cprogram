@@ -1,0 +1,17 @@
+// assuming all header files inlcuded
+
+int a=10;
+int b=3;
+float c,r;
+
+// c=a/b , this divides a with b and gives qoutient,
+
+c=a/b;
+
+//now, for remainder we use modulus operator look how
+
+d=a%b;
+
+//here d gives remainder.
+
+
